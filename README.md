@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vibalcam
 - 👀 I’m interested in Machine Learning, Deep Learning (especially for graphs, Graph Neural Networks), Graph Analytics, and their applications
-- 🌱 I’m currently learning about Deep Reinforcement Learning, and Graph Neural Networks
+- 🌱 I’m currently learning about Self-supervised learning, Deep Reinforcement Learning, and Graph Neural Networks
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/vicente-balmaseda/)
 
 <!---
