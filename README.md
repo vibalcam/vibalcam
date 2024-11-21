@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/vicente-balmaseda/)
 <!---
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git,was,bash,c,cpp,debian,docker,github,ai,latex,linux,obsidian,py,raspberrypi,sklearn,pytorch" />
 </p>
 --->
