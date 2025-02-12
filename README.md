@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 I am a Computer Science PhD student at Texas A&M, working in the Optimization for Machine Learning and AI lab.
-My interests center around deep learning, machine learning, graph analytics, and their practical applications.
+My interests center around Deep Learning, Machine Learning, Graph Algorithms, and their practical applications.
 
 - 🔭 I’m currently working on Representation Learning
 - 👯 I’m looking to collaborate on AI Research or academic initiatives
